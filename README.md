@@ -24,7 +24,7 @@
   - 12 Widow’s Leaf
   - 1 Black Lotus Powder
   - 8 Unstable Substance
-- **(Powder) Mysical Dust**
+- **(Powder) Mystical Dust**
   - 5 Aurora Herb
   - 6 Mystical Plant
   
