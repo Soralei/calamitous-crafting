@@ -122,3 +122,19 @@
   - 100 Onyx
   - 1 Essence of Binding
   - 5 Ruby
+
+# Faction Specific Crafts
+- Faction: The Elven Covenant
+  - Sub-Faction: Silver Coven
+    - The Crescent Shrine
+      - 5 Skyan Metal Bar
+      - 120 Chromium Reinforcement
+      - 5 Onyx Core
+      - 2 Kronyxium Core
+- Faction: The Vanghoul Clans
+  - Sub-Faction: Forsaken Vanguard
+    - Forge of Keldora
+      - 3 Kronyxium Steel Bar
+      - 120 Chromium Reinforcement
+      - 5 Onyx Core
+      - Kronyxium Core
