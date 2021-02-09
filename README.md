@@ -1,32 +1,61 @@
 # calamitous-crafting
 
 # Alchemy Desk
-- **(Fragment) Demise**
+<details>
+  <summary><b>(Fragment) Demise</b></summary>
+
   - 20 Dragonfern Dust
   - 2 Black Lotus Powder
   - 30 Blood
   - 3 Golden Lotus Flower
-- **(Fragment) Fury**
+    
+</details>
+
+<details>
+  <summary><b>(Fragment) Fury</b></summary>
+
   - 2 Crimson Lotus Flower
   - 2 Goldstone
   - 3 Demon Blood
   - 50 Black Ice
-- **(Potion) Liquid Elarikan**
+    
+</details>
+
+<details>
+  <summary><b>(Potion) Liquid Elarikan</b></summary>
+
   - 25 Unstable Substance
   - 1 Emerald
   - 5 Elarikan Powder
   - 1 Common Potion Medium
-- **(Potion) Tonic of Enhanced Preservation**
+    
+</details>
+
+<details>
+  <summary><b>(Potion) Tonic of Enhanced Preservation</b></summary>
+
   - 1 Dragonhorn
   - 2 Goldstone
   - 30 Ichor
-- **(Powder) Elarikan Powder**
+    
+</details>
+
+<details>
+  <summary><b>(Powder) Elarikan Powder</b></summary>
+
   - 12 Widow’s Leaf
   - 1 Black Lotus Powder
   - 8 Unstable Substance
-- **(Powder) Mystical Dust**
+    
+</details>
+
+<details>
+  <summary><b>(Powder) Mystical Dust</b></summary>
+
   - 5 Aurora Herb
   - 6 Mystical Plant
+    
+</details>
   
 # Frost Temple Smithy
 - **Elarikan Core**
