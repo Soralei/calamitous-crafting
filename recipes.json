@@ -1,11 +1,23 @@
 {
-   "recipes": {
-      "Mystical Dust": {
-         "Aurora Herb": 5,
-         "Mystical Plant": 6
-      },
-      "Teeest": {
-         "yap": 5
-      }
-   }
-}
+    "recipes": {
+       "Alchemy Desk": {
+          "Mystical Dust": {
+             "Aurora Herb": 5,
+             "Mystical Plant": 6
+          },
+          "Liquid Elarikan": {
+            "Widow's Leaf": 12,
+            "Black Lotus Powder": 1,
+            "Unstable Substance": 8
+          }
+       },
+       "Frost Temple Smithy": {
+            "Elarikan Core": {
+                "Unstable Substance": 100,
+                "Onyx Core": 1,
+                "Plague Crystal": 1,
+                "Emerald": 5
+            }
+       }
+    }
+ }
