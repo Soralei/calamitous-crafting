@@ -1,8 +1,8 @@
 {
-  "recipes": {
-    "Mystical Dust": {
-      "Aurora Herb": 5,
-      "Mystical Plant": 6,
-    }
-  }
+   "recipes":{
+      "Mystical Dust":{
+         "Aurora Herb":5,
+         "Mystical Plant":6
+      }
+   }
 }
