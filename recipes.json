@@ -1,23 +1,33 @@
 {
-    "recipes": {
-       "Alchemy Desk": {
-          "Mystical Dust": {
-             "Aurora Herb": 5,
-             "Mystical Plant": 6
-          },
-          "Liquid Elarikan": {
-            "Widow's Leaf": 12,
-            "Black Lotus Powder": 1,
-            "Unstable Substance": 8
-          }
-       },
-       "Frost Temple Smithy": {
-            "Elarikan Core": {
+    "recipes": [
+        {
+            "craft_station": "Alchemy Desk",
+            "recipe_name": "Mystical Dust",
+            "components": [{
+                "Aurora Herb": 5,
+                "Mystical Plant": 6
+            }]
+        },
+
+        {
+            "craft_station": "Alchemy Desk",
+            "recipe_name": "Liquid Elarikan",
+            "components": [{
+                "Widow's Leaf": 12,
+                "Black Lotus Powder": 1,
+                "Unstable Substance": 8
+            }]
+        },
+
+        {
+            "craft_station": "Frost Temple Smithy",
+            "recipe_name": "Elarikan Core",
+            "components": [{
                 "Unstable Substance": 100,
                 "Onyx Core": 1,
                 "Plague Crystal": 1,
                 "Emerald": 5
-            }
-       }
-    }
+            }]
+        }
+    ]
  }
