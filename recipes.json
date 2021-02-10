@@ -1,9 +1,11 @@
 {
-  "Mystical Dust": {
-    "Aurora Herb": 5,
-    "Mystical Plant": 6
-  },
-  "Something": {
-    "test": true,
+  "recipes": {
+    "Mystical Dust": {
+      "Aurora Herb": 5,
+      "Mystical Plant": 6,
+    },
+    "Something": {
+      "test": true,
+    }
   }
 }
