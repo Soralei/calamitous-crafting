@@ -1,33 +1,27 @@
 {
-    "recipes": [
-        {
-            "craft_station": "Alchemy Desk",
-            "recipe_name": "Mystical Dust",
-            "components": [{
-                "Aurora Herb": 5,
-                "Mystical Plant": 6
-            }]
-        },
-
-        {
-            "craft_station": "Alchemy Desk",
-            "recipe_name": "Liquid Elarikan",
-            "components": [{
-                "Widow's Leaf": 12,
-                "Black Lotus Powder": 1,
-                "Unstable Substance": 8
-            }]
-        },
-
-        {
-            "craft_station": "Frost Temple Smithy",
-            "recipe_name": "Elarikan Core",
-            "components": [{
-                "Unstable Substance": 100,
-                "Onyx Core": 1,
-                "Plague Crystal": 1,
-                "Emerald": 5
-            }]
-        }
-    ]
- }
+    "workstations": [{
+        "Alchemy Desk": [],
+        "Frost Temple Smithy": [],
+        "Master Furnace": [
+            {
+                "name": "Chromium Reinforcement",
+                "components": [{
+                    "Carbon": 1,
+                    "Aluminium": 2,
+                    "Cobalt Ore": 2,
+                    "Steel Reinforcement": 3
+                }]
+            },
+            {
+                "name": "(Alloy) Bronze",
+                "components": [{
+                    "Tin Ore": 10,
+                    "Copper Ore": 20,
+                    "Arsenic": 5
+                }]
+            }
+        ],
+        "Plague Furnace": [],
+        "Volcanic Forge": []
+    }]
+}
