@@ -1,27 +1,25 @@
 {
-    "workstations": {
-        "Alchemy Desk": [],
-        "Frost Temple Smithy": [],
-        "Master Furnace": [
-            {
-                "name": "Chromium Reinforcement",
-                "components": [{
-                    "Carbon": 1,
-                    "Aluminium": 2,
-                    "Cobalt Ore": 2,
-                    "Steel Reinforcement": 3
-                }]
-            },
-            {
-                "name": "(Alloy) Bronze",
-                "components": [{
-                    "Tin Ore": 10,
-                    "Copper Ore": 20,
-                    "Arsenic": 5
-                }]
+    "Alchemy Desk": [],
+    "Frost Temple Smithy": [],
+    "Master Furnace": [
+        {
+            "name": "Chromium Reinforcement",
+            "components": {
+                "Carbon": 1,
+                "Aluminium": 2,
+                "Cobalt Ore": 2,
+                "Steel Reinforcement": 3
             }
-        ],
-        "Plague Furnace": [],
-        "Volcanic Forge": []
-    }
+        },
+        {
+            "name": "(Alloy) Bronze",
+            "components": {
+                "Tin Ore": 10,
+                "Copper Ore": 20,
+                "Arsenic": 5
+            }
+        }
+    ],
+    "Plague Furnace": [],
+    "Volcanic Forge": []
 }
