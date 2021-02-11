@@ -1,5 +1,5 @@
 {
-    "workstations": [{
+    "workstations": {
         "Alchemy Desk": [],
         "Frost Temple Smithy": [],
         "Master Furnace": [
@@ -23,5 +23,5 @@
         ],
         "Plague Furnace": [],
         "Volcanic Forge": []
-    }]
+    }
 }
