@@ -1,25 +1,25 @@
 {
-    "Alchemy Desk": [],
-    "Frost Temple Smithy": [],
-    "Master Furnace": [
-        {
-            "name": "Chromium Reinforcement",
-            "components": {
-                "Carbon": 1,
-                "Aluminium": 2,
-                "Cobalt Ore": 2,
-                "Steel Reinforcement": 3
-            }
-        },
-        {
-            "name": "(Alloy) Bronze",
-            "components": {
-                "Tin Ore": 10,
-                "Copper Ore": 20,
-                "Arsenic": 5
-            }
-        }
-    ],
-    "Plague Furnace": [],
-    "Volcanic Forge": []
+    {
+        "name": "Mystical Dust",
+        "craftedAt": "Alchemy Desk",
+        "components": []
+    },
+
+    {
+        "name": "Elarikan Powder",
+        "craftedAt": "Alchemy Desk",
+        "components": []
+    },
+
+    {
+        "name": "Liquid Elarikan",
+        "craftedAt": "Alchemy Desk",
+        "components": []
+    },
+
+    {
+        "name": "Chromium Reinforcement",
+        "craftedAt": "Master Furnace",
+        "components": []
+    }
 }
