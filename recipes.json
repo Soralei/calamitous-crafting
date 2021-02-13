@@ -3,7 +3,10 @@
         {
             "name": "Mystical Dust",
             "craftedAt": "Alchemy Desk",
-            "components": []
+            "components": [
+                {"name": "Aurora Herb", "amount": 5},
+                {"name": "Mystical Plant", "amount": 6}
+            ]
         },
     
         {
