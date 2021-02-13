@@ -1,25 +1,27 @@
 {
-    {
-        "name": "Mystical Dust",
-        "craftedAt": "Alchemy Desk",
-        "components": []
-    },
-
-    {
-        "name": "Elarikan Powder",
-        "craftedAt": "Alchemy Desk",
-        "components": []
-    },
-
-    {
-        "name": "Liquid Elarikan",
-        "craftedAt": "Alchemy Desk",
-        "components": []
-    },
-
-    {
-        "name": "Chromium Reinforcement",
-        "craftedAt": "Master Furnace",
-        "components": []
-    }
+    "recipes": [
+        {
+            "name": "Mystical Dust",
+            "craftedAt": "Alchemy Desk",
+            "components": []
+        },
+    
+        {
+            "name": "Elarikan Powder",
+            "craftedAt": "Alchemy Desk",
+            "components": []
+        },
+    
+        {
+            "name": "Liquid Elarikan",
+            "craftedAt": "Alchemy Desk",
+            "components": []
+        },
+    
+        {
+            "name": "Chromium Reinforcement",
+            "craftedAt": "Master Furnace",
+            "components": []
+        }
+    ]
 }
